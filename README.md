@@ -1,4 +1,4 @@
-👋 Hi, I’m @ShubhiGupta1531 , , your friendly neighborhood coder!
+👋 Hi, I’m @Shubhi143 , , your friendly neighborhood coder!
 
 👀 I’m interested in exploring the vast realms of software development and tinkering with new technologies.
 
