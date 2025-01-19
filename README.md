@@ -16,3 +16,13 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhi-gupta-2438901a0/)
+
+
+
+
+
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2314354C.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-%230db7ed.svg?style=for-the-badge&logo=gradle&logoColor=white)
+
