@@ -11,3 +11,8 @@
 😄 Pronouns: She/her
 
 ⚡ Fun fact: I have a knack for solving puzzles in record time and believe that coding is just another form of unraveling a complex puzzle! Let's code and have some fun along the way. 🧩💻
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhi-gupta-2438901a0/)
