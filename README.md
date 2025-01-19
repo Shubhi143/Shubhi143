@@ -1,16 +1,18 @@
-👋 Hi, I’m @Shubhi143 , , your friendly neighborhood coder!
+👋 Hi, I’m @Shubhi143, your friendly neighborhood coder!
 
 👀 I’m interested in exploring the vast realms of software development and tinkering with new technologies.
 
-🌱 I’m currently learning the ropes of Quality Automation, constantly leveling up my skills
+🌱 I’m currently learning the ropes of Quality Automation, constantly leveling up my skills.
 
-💞️ I’m looking to collaborate on exciting projects that challenge the status quo and push the boundaries of innovation.
+💞️ I’m looking to collaborate on exciting projects that challenge the status quo, push the boundaries of innovation, and allow me to work collaboratively with amazing people.
 
-📫 How to reach me ? feel free to drop me a message here or reach out via email at shubhig389@gmail.com.
+📫 How to reach me? Feel free to drop me a message here or reach out via email at shubhig389@gmail.com.
 
-😄 Pronouns: She/her
+😄 Pronouns: She/her  
 
-⚡ Fun fact: I have a knack for solving puzzles in record time and believe that coding is just another form of unraveling a complex puzzle! Let's code and have some fun along the way. 🧩💻
+⚡ Fun fact: I have a knack for solving puzzles in record time and believe that coding is just another form of unraveling a complex puzzle! Let's code, collaborate, and have some fun along the way. 🧩💻  
+
+💼 I’m an **SDET** passionate about learning, growing, and contributing to impactful projects!
 
 
 
