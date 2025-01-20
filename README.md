@@ -33,7 +33,6 @@
 ![RestAssured](https://img.shields.io/badge/RestAssured-%23A8C4FF.svg?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PlayWright](https://img.shields.io/badge/PlayWright-%43B02A.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
@@ -45,7 +44,7 @@
 ![Shubhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhi143&show_icons=true&theme=dark)
 
 ## 🔥 Streak Stats:
-![Shubhi's GitHub streak](https://streak-stats.demolab.com/?user=Shubhi143&theme=dark)
+![Shubhi's GitHub streak](https://streak-stats.demolab.com/?user=Shubhi143&show_icons=true&theme=dark)
 
 ---
 
