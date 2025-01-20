@@ -39,3 +39,15 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 
+
+
+## 📊 My GitHub Stats:
+![Shubhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhi143&show_icons=true&theme=dark)
+
+## 🔥 Streak Stats:
+![Shubhi's GitHub streak](https://streak-stats.demolab.com/?user=Shubhi143&theme=dark)
+
+---
+
+## 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhi-gupta-2438901a0/)
